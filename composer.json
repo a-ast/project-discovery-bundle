@@ -1,0 +1,9 @@
+{
+  "name": "a-ast/project-discovery-bundle",
+  "autoload": {
+    "psr-4" : {
+      "Aa\\Bundle\\ProjectDiscoveryBundle\\" : ""
+    }
+  },
+  "minimum-stability": "dev"
+}
