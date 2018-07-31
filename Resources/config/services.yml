@@ -1,0 +1,3 @@
+services:
+    aa_project_discovery.registry.tag:
+        class: Aa\Bundle\ProjectDiscoveryBundle\Discovery\TagRegistry
